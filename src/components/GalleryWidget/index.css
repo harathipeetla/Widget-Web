@@ -1,0 +1,118 @@
+.gallery-widget{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    width: 740px;
+height: 316px;
+top: 96px;
+left: 922px;
+padding: 12px;
+border-radius: 18.89px ;
+opacity: 0px;
+background: #363C43;
+box-shadow: 5.67px 5.67px 3.78px 0px #00000066;
+padding: 20px;
+margin-top: 2em;
+
+
+}
+.right-bar{
+    top: 116px;
+    left: 934px;
+    gap: 105px;
+    opacity: 0px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-around;
+    }
+    
+.icon-1{
+    color:  #A3ADBA ;
+    font-size: 22px;
+}
+
+.gallery-header{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+}
+
+.gallery-header h1{
+width: 149px;
+height: 62px;
+top: 37px;
+left: 20px;
+gap: 0px;
+border-radius: 20px;
+opacity: 0px;
+background-color: black;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #FFFFFF;
+cursor: pointer;
+}
+
+.part-2{
+    display: flex;
+    flex-direction: column;
+}
+
+.add-image-btn{
+width: 149px;
+height: 62px;
+top: 37px;
+left: 20px;
+gap: 0px;
+border-radius: 23px;
+opacity: 0px;
+background-color: #363C43;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #FFFFFF;
+cursor: pointer;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.buttons-container button{
+width: 45px;
+height: 45px;
+
+color: #A3ADBA;
+border-radius: 50%;
+background-color: transparent;
+margin-left: 1em;
+margin-right: 0.5em;
+border: none;
+cursor: pointer;
+font-size: 20px;
+font-weight: bold;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.gallery-content .gallery-image {
+    width: 190px;
+height: 179px;
+top: 55px;
+left: 39px;
+gap: 0px;
+border-radius: 24px;
+opacity: 0px;
+
+
+}
+
+.buttons-container{
+    display: flex;
+}
