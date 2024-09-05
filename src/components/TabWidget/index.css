@@ -8,7 +8,7 @@ top: 96px;
 left: 922px;
 padding: 12px;
 border-radius: 18.89px ;
-opacity: 0px;
+
 background: #363C43;
 box-shadow: 5.67px 5.67px 3.78px 0px #00000066;
 padding: 20px;
@@ -23,7 +23,7 @@ padding: 20px;
 top: 116px;
 left: 934px;
 gap: 105px;
-opacity: 0px;
+
 margin-right: 10px;
 display: flex;
 flex-direction: column;
@@ -42,7 +42,7 @@ top: 113px;
 left: 975px;
 gap: 0px;
 border-radius: 23px ;
-opacity: 0px;
+
 background: #171717;
 box-shadow: 0px 4.96px 12.4px 2.48px #00000040 inset;
 display: flex;
@@ -82,7 +82,7 @@ top: 96px;
 left: 922px;
 gap: 0px;
 border-radius: 18.89px 0px 0px 0px;
-opacity: 0px;
+
 color: #969696;
 font-family: Plus Jakarta Sans;
 font-size: 20px;
